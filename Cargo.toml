@@ -1,0 +1,7 @@
+[package]
+name = "diff-blame-rs"
+version = "0.1.0"
+authors = ["ParkJuhyung"]
+edition = "2018"
+
+[dependencies]
